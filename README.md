@@ -1,5 +1,5 @@
 # Cardiac-Action-Potential-Model-of-the-Dog
-Cardiac Action Potential Model of the Dog
+
 This software code provides a model of canine cardiac action potential described in [1,2]. The model code is written in CellML which is an open standard based on the XML markup language [3]. The model was derived from voltage clamp experimental data from canine ventricular myocytes/tissue under nearly identical and physiological conditions. This model of the canine action potential is moderately complex with six currents, seven variables, and thirty-six parameters. The model was calibrated to both action potential duration restitution and conduction speed. The design of the model allows for comprehensive parameter sensitivity analysis and uncertainty quantification.For more information about the model please refer to [1,2]. There are a variety of OpenSource Tools to run this CellML model (see [3]).
 
 The code itself is provided in the two files:
