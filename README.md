@@ -8,7 +8,7 @@ PathmanathanGrayCanine2019.cellml & PathmanathanGrayCanine2020mean.cellml
 
 These two models have the same form but have slightly different paramter values. The paramter values of PathmanathanGrayCanine2019.cellml are listed in Table 1 of [1] and the paramter values of PathmanathanGrayCanine2020mean.cellml are listed in Table 1 of [2].
 
-# Tool Reference
+# Regulatory Science Tool (RST) Reference
 •	RST Reference Number: RST24CV12.01  
 •	Date of Publication: 08/08/2023  
 •	Recommended Citation: U.S. Food and Drug Administration. (2023). Cardiac Action Potential Model of the Dog (RST24CV12.01). https://cdrh-rst.fda.gov/cardiac-action-potential-model-dog  
